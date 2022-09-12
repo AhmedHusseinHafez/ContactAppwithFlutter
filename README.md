@@ -1,4 +1,4 @@
-# contacts
+# ContactsApp
 
 A new Flutter project.
 
